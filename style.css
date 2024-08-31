@@ -3,3 +3,17 @@
     padding:0;
     box-sizing:border-box;
 }
+
+body{
+    width:100vw;
+    min-height:100vh;
+    background-color:palegreen;
+}
+
+.nav_bar{
+    height:100px;
+    width:80%;
+    margin:30px auto;
+    background-color:rgba(255, 0, 0, 0.582);
+    border-radius:5px;
+}
